@@ -20,13 +20,10 @@ export const metadata: Metadata = {
   description: "Modern JavaScript utilities for reactive state management, DOM manipulation, and component development. Works seamlessly with React, Vue, Svelte, or vanilla JavaScript.",
   keywords: ["OneKit", "JavaScript", "DOM", "Reactive", "State Management", "React", "Vue", "Svelte"],
   authors: [{ name: "OneKit Team" }],
-  icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
-  },
   openGraph: {
     title: "OneKit JS",
     description: "Simple DOM utilities and reactive state helpers for modern JavaScript apps",
-    url: "https://onekit-js.com",
+    url: "https://onekitjs.vercel.app/",
     siteName: "OneKit JS",
     type: "website",
   },
