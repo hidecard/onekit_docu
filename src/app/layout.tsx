@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "OneKit JS",
     description: "Simple DOM utilities and reactive state helpers for modern JavaScript apps",
-    url: "https://onekitjs.vercel.app/",
+    url: "https://onekit-js.vercel.app/",
     siteName: "OneKit JS",
     type: "website",
   },
